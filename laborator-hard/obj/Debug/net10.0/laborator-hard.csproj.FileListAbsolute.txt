@@ -1,0 +1,14 @@
+/Users/alinagutul/Desktop/Spring Session/laborator-hard/bin/Debug/net10.0/laborator-hard
+/Users/alinagutul/Desktop/Spring Session/laborator-hard/bin/Debug/net10.0/laborator-hard.deps.json
+/Users/alinagutul/Desktop/Spring Session/laborator-hard/bin/Debug/net10.0/laborator-hard.runtimeconfig.json
+/Users/alinagutul/Desktop/Spring Session/laborator-hard/bin/Debug/net10.0/laborator-hard.dll
+/Users/alinagutul/Desktop/Spring Session/laborator-hard/bin/Debug/net10.0/laborator-hard.pdb
+/Users/alinagutul/Desktop/Spring Session/laborator-hard/obj/Debug/net10.0/laborator-hard.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alinagutul/Desktop/Spring Session/laborator-hard/obj/Debug/net10.0/laborator-hard.AssemblyInfoInputs.cache
+/Users/alinagutul/Desktop/Spring Session/laborator-hard/obj/Debug/net10.0/laborator-hard.AssemblyInfo.cs
+/Users/alinagutul/Desktop/Spring Session/laborator-hard/obj/Debug/net10.0/laborator-hard.csproj.CoreCompileInputs.cache
+/Users/alinagutul/Desktop/Spring Session/laborator-hard/obj/Debug/net10.0/laborator-hard.dll
+/Users/alinagutul/Desktop/Spring Session/laborator-hard/obj/Debug/net10.0/refint/laborator-hard.dll
+/Users/alinagutul/Desktop/Spring Session/laborator-hard/obj/Debug/net10.0/laborator-hard.pdb
+/Users/alinagutul/Desktop/Spring Session/laborator-hard/obj/Debug/net10.0/laborator-hard.genruntimeconfig.cache
+/Users/alinagutul/Desktop/Spring Session/laborator-hard/obj/Debug/net10.0/ref/laborator-hard.dll
