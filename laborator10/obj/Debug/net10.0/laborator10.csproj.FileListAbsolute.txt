@@ -1,0 +1,14 @@
+/Users/alinagutul/Desktop/Spring Session/Design Software/laborator10/bin/Debug/net10.0/laborator10
+/Users/alinagutul/Desktop/Spring Session/Design Software/laborator10/bin/Debug/net10.0/laborator10.deps.json
+/Users/alinagutul/Desktop/Spring Session/Design Software/laborator10/bin/Debug/net10.0/laborator10.runtimeconfig.json
+/Users/alinagutul/Desktop/Spring Session/Design Software/laborator10/bin/Debug/net10.0/laborator10.dll
+/Users/alinagutul/Desktop/Spring Session/Design Software/laborator10/bin/Debug/net10.0/laborator10.pdb
+/Users/alinagutul/Desktop/Spring Session/Design Software/laborator10/obj/Debug/net10.0/laborator10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alinagutul/Desktop/Spring Session/Design Software/laborator10/obj/Debug/net10.0/laborator10.AssemblyInfoInputs.cache
+/Users/alinagutul/Desktop/Spring Session/Design Software/laborator10/obj/Debug/net10.0/laborator10.AssemblyInfo.cs
+/Users/alinagutul/Desktop/Spring Session/Design Software/laborator10/obj/Debug/net10.0/laborator10.csproj.CoreCompileInputs.cache
+/Users/alinagutul/Desktop/Spring Session/Design Software/laborator10/obj/Debug/net10.0/laborator10.dll
+/Users/alinagutul/Desktop/Spring Session/Design Software/laborator10/obj/Debug/net10.0/refint/laborator10.dll
+/Users/alinagutul/Desktop/Spring Session/Design Software/laborator10/obj/Debug/net10.0/laborator10.pdb
+/Users/alinagutul/Desktop/Spring Session/Design Software/laborator10/obj/Debug/net10.0/laborator10.genruntimeconfig.cache
+/Users/alinagutul/Desktop/Spring Session/Design Software/laborator10/obj/Debug/net10.0/ref/laborator10.dll

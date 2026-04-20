@@ -1,0 +1,14 @@
+/Users/alinagutul/Desktop/Spring Session/Design Software/laboralor2/bin/Debug/net10.0/laboralor2
+/Users/alinagutul/Desktop/Spring Session/Design Software/laboralor2/bin/Debug/net10.0/laboralor2.deps.json
+/Users/alinagutul/Desktop/Spring Session/Design Software/laboralor2/bin/Debug/net10.0/laboralor2.runtimeconfig.json
+/Users/alinagutul/Desktop/Spring Session/Design Software/laboralor2/bin/Debug/net10.0/laboralor2.dll
+/Users/alinagutul/Desktop/Spring Session/Design Software/laboralor2/bin/Debug/net10.0/laboralor2.pdb
+/Users/alinagutul/Desktop/Spring Session/Design Software/laboralor2/obj/Debug/net10.0/laboralor2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alinagutul/Desktop/Spring Session/Design Software/laboralor2/obj/Debug/net10.0/laboralor2.AssemblyInfoInputs.cache
+/Users/alinagutul/Desktop/Spring Session/Design Software/laboralor2/obj/Debug/net10.0/laboralor2.AssemblyInfo.cs
+/Users/alinagutul/Desktop/Spring Session/Design Software/laboralor2/obj/Debug/net10.0/laboralor2.csproj.CoreCompileInputs.cache
+/Users/alinagutul/Desktop/Spring Session/Design Software/laboralor2/obj/Debug/net10.0/laboralor2.dll
+/Users/alinagutul/Desktop/Spring Session/Design Software/laboralor2/obj/Debug/net10.0/refint/laboralor2.dll
+/Users/alinagutul/Desktop/Spring Session/Design Software/laboralor2/obj/Debug/net10.0/laboralor2.pdb
+/Users/alinagutul/Desktop/Spring Session/Design Software/laboralor2/obj/Debug/net10.0/laboralor2.genruntimeconfig.cache
+/Users/alinagutul/Desktop/Spring Session/Design Software/laboralor2/obj/Debug/net10.0/ref/laboralor2.dll
